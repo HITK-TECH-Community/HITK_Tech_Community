@@ -1,0 +1,59 @@
+NASA Lunar Image Co-Registration Code Refinement Challenge🚀🌌
+
+Have you ever looked at images on your favorite mapping webpage and noticed changes in the world depicted? Does astronomy thrill you?🤩☄️
+
+ Then here is an amazing opportunity for you! 🤩👇
+
+NASA is currently collecting data from the Moon and also has images from the  1960s. They are looking to develop a software application - Lunar Mission Coregistration Tool (LMCT) that will process publicly available imagery files from past lunar missions and will enable manual comparison to imagery from the ongoing Lunar Reconnaissance Orbiter (LRO) mission.
+
+📌 Task Detail
+
+This solution is based on the USGS Integrated Software Imaging Software (ISIS) 3 library.
+
+ 🔰 Objective
+  In this challenge, we would like to refine the codebase to 
+
+🔴Make it support two new formats:
+▫️USGS ISIS Cubes image format
+▫️JPEG2000 image format
+
+🛑 Bonus: Suggest potential improvements to the existing approach.
+
+📌 Final Submission Guidelines:
+
+You submission should contain:
+
+✅A working codebase. You are allowed to use C++/Python. It should be wrapped up as one single command line entry point. The image file names should be a part of your command line call. 
+✅A detailed document about your algorithm. 
+✅A detailed deployment instruction. 
+✅Example results. Please use enough, diverse example results to showcase the effectiveness of your solution. 
+
+📌 Submission Guideline:
+
+We will only evaluate your last submission‼️
+
+📌 Judging Criteria:
+
+1️⃣Effectiveness (40%)
+2️⃣Feasibility (40%)
+3️⃣Clarity (20%)
+
+💰 Prize:
+
+🥇1st: $1,500
+🥈2nd: $700
+🥉3rd: $300
+
+For further information please visit👇
+https://www.topcoder.com/challenges/30171031?tab=submissions
+
+So,what are you waiting for?🤨
+
+Apply now❗❗👇
+
+https://www.topcoder.com/challenges/30171031?tab=submissions
+
+Thank you,
+With regards,
+HITK Tech Community👩‍💻👨‍💻
+(By HITK students,For HITK students)
