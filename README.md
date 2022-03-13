@@ -4,6 +4,8 @@
 Being from tier-2 and tier-3 colleges, you often face the problem of knowledge gap in our college days. But once you begin walking in the path of tech, you discover a place where people are just like you. 😇✨ 
 We are a group of HITK students trying to fill the knowledge gap and help you find your place of discovery by sharing you the opportunities and resources at the right time!⏱️<br />
 
+<img align="right" alt="GIF" src="assets/tech.gif" width="360px"/>
+
 **HITK Tech Community** is a platform that helps the campus students of Heritage Institute of Technology in providing opportunities related to tech, such as:
 
 **⭕ Webinars** <br />
@@ -30,3 +32,7 @@ You must be curious to know more about us.😀 So, go ahead with your curiosity,
     **3. Create a PR to improve the contents of this repo.**
 
 <b>This repository contains all the broadcasts done in the HITK Tech community group, so even if you are not from HITK, you can still visit here to checkout the resources anytime!</b>😊
+
+<p align="center">
+        <img src="assets/design.svg" alt="Github Design" />
+</p>
